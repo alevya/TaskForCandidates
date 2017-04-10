@@ -1,0 +1,16 @@
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\bin\Debug\Main.exe.config
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\bin\Debug\Main.exe
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\bin\Debug\Main.pdb
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\bin\Debug\Tasks.dll
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\bin\Debug\Tasks.pdb
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\obj\Debug\Main.exe
+L:\DEVELOPMENTS\C#\TaskForCandidates\Main\obj\Debug\Main.pdb
+D:\Share_DIR\TaskForCandidates\Main\bin\Debug\Main.exe.config
+D:\Share_DIR\TaskForCandidates\Main\bin\Debug\Main.exe
+D:\Share_DIR\TaskForCandidates\Main\bin\Debug\Main.pdb
+D:\Share_DIR\TaskForCandidates\Main\bin\Debug\Tasks.dll
+D:\Share_DIR\TaskForCandidates\Main\bin\Debug\Tasks.pdb
+D:\Share_DIR\TaskForCandidates\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Share_DIR\TaskForCandidates\Main\obj\Debug\Main.exe
+D:\Share_DIR\TaskForCandidates\Main\obj\Debug\Main.pdb

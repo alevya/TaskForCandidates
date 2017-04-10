@@ -1,0 +1,9 @@
+L:\DEVELOPMENTS\C#\TaskForCandidates\Tasks\bin\Debug\Tasks.dll
+L:\DEVELOPMENTS\C#\TaskForCandidates\Tasks\bin\Debug\Tasks.pdb
+L:\DEVELOPMENTS\C#\TaskForCandidates\Tasks\obj\Debug\Tasks.dll
+L:\DEVELOPMENTS\C#\TaskForCandidates\Tasks\obj\Debug\Tasks.pdb
+L:\DEVELOPMENTS\C#\TaskForCandidates\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+D:\Share_DIR\TaskForCandidates\Tasks\bin\Debug\Tasks.dll
+D:\Share_DIR\TaskForCandidates\Tasks\bin\Debug\Tasks.pdb
+D:\Share_DIR\TaskForCandidates\Tasks\obj\Debug\Tasks.dll
+D:\Share_DIR\TaskForCandidates\Tasks\obj\Debug\Tasks.pdb
