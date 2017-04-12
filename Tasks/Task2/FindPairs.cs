@@ -38,23 +38,6 @@ namespace Tasks.Task2
         
         {
             var result = new List<Pair<T>>();
-            var typeCode = Type.GetTypeCode(typeof(T));
-            switch (typeCode)
-            {
-                case TypeCode.Decimal:
-                case TypeCode.Double:
-                case TypeCode.Int16:
-                case TypeCode.Int32:
-                case TypeCode.Int64:
-                case TypeCode.Single:
-                case TypeCode.UInt16:
-                case TypeCode.UInt32:
-                case TypeCode.UInt64:
-                    break;
-                default:
-                    return result;
-            }
-
             if (inData == null || !inData.Any()) return result;
 
             var htSet = new HashSet<T>();
