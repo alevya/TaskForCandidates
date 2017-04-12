@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 using Tasks.Task1;
 using Tasks.Task2;
@@ -56,7 +57,7 @@ namespace Main
 
         private static void Read(SafeQueue<int> queue)
         {
-            for (int i = 0; i <= 100; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 var res = queue.Pop();
                 Console.WriteLine("Read:{0:D}", res);
@@ -65,10 +66,11 @@ namespace Main
 
         private static void Write(SafeQueue<int> queue)
         {
-            for (int i = 0; i <= 100; i++)
+            for (int i = 0; i <= 10; i++)
             {
                 queue.Push(i);
                 Console.WriteLine("Write:{0:D}", i);
+                Thread.Sleep(500);
             }
         }
 
